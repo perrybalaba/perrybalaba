@@ -1,16 +1,12 @@
-## Hi there 👋
+## 👋 Hello World, I'm Perry!
+- 💻 Programming, Web Dev, Game Dev, Cybersecurity / College Student
+- 📑 Currently Learning: C#, HTML, CSS, JavaScript
+- ✉️ Reach Me: [balabaperry@gmail.com](mailto:balabaperry@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ann-karen-balaba-46b839387/)
 
-<!--
-**perrybalaba/perrybalaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ My Tech Stack
+- **Languages:** C# / Python / JavaScript / Markdown
+- **Web Dev:** HTML / CSS
+- **Tools:** Powershell / Git
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Favorite Tools
+VSCode • VS Studio • GitHub • PyCharm
