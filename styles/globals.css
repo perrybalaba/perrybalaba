@@ -1,8 +1,22 @@
+/* FONTS */
 @font-face {
     font-family: "NotoSans";
     src: url(../assets/fonts/Noto_Sans/NotoSans-VariableFont_wdth\,wght.ttf);
 }
 
-body {
+@font-face {
+    font-family: "Lexend";
+    src: url(../assets/fonts/Lexend_Deca\,Noto_Sans/Lexend_Deca/LexendDeca-VariableFont_wght.ttf);
+}
+
+.Home-Header {
     font-family: "NotoSans";
+}
+
+.Nav-Bar {
+    font-family: "Lexend";
+}
+
+main {
+    font-family: "Lexend";
 }
