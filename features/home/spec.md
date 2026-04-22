@@ -12,6 +12,8 @@ implement `index.html`
 - Horizontal Navigation Bar
 - Float
 - Image
+- Class
+- Grid
 
 #### How do users interact? What is the hover behavior?
 - Users interact using the buttons on the navigation bar. The hover behavior will just show a darker shade of the nav bar.

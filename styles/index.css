@@ -47,3 +47,17 @@ nav ul li a {
     width: 30em;
     height: 30em;
 }
+
+/* NON-FUNCTIONAL BUTTONS */
+.Soft-Skills {
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.1rem;
+    border-radius: 0.7rem;
+    transition-duration: 0.4s;
+}
+
+.Soft-Skills:hover {
+    background-color: aliceblue;
+}
