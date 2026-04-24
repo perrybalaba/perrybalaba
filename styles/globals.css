@@ -15,9 +15,49 @@
 
 .Nav-Bar {
     font-family: "Lexend";
+    color: #dfe5ec;
 }
 
 main {
     font-family: "Lexend";
 }
 
+/* DESKTOP AND TABLET LAYOUTS */
+@media only screen and (min-width: 992px) {
+    .Info {
+        grid-template-columns: 2fr 2fr;
+        align-items: center;
+        padding: 0%;
+        margin-left: 5%;
+        gap: 5%;
+    }
+}
+
+/* COLOR PALETTE */
+body {
+    background-color: #11172a;
+    color: #626c7d;
+}
+
+nav ul li a {
+    color: #dfe5ec;    
+}
+
+h1 {
+    color: #dfe5ec
+}
+
+h3 {
+    color: #dfe5ec;
+}
+
+.Soft-Skills {
+    color: #599692;
+    background-color: #2b5855;
+    border: none;
+    outline: none;
+}
+
+.Soft-Skills:hover {
+    transform: scale(1.2);
+}
