@@ -53,6 +53,5 @@ h3 {
 
 .Soft-Skills {
     color: #599692;
-    background-color: transparent;
-    border: 1.2px solid #599692;
+    outline: #599692;
 }

@@ -68,21 +68,16 @@ nav ul li a:hover {
 
 /* NON-FUNCTIONAL BUTTONS */
 .Soft-Skills {
+    border: none;
     outline: none;
     border-radius: 40px;
-    padding: .4rem;
-    margin: .4rem;
-    font-size: 1rem;
+    padding: .5rem 1rem;
+    margin: .3rem;
+    font-size: clamp(.6rem, 1vw, 1rem);
     transition:.2s;
 }
 
-.skills-container {
-    display: flex;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    gap: .2rem;
-}
-
 .Soft-Skills:hover {
-    transform: scale(1.10);
+    transform: scale(1.08);
+    background-color: aliceblue;
 }

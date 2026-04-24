@@ -68,10 +68,11 @@ nav ul li a:hover {
 
 /* NON-FUNCTIONAL BUTTONS */
 .Soft-Skills {
+    border: none;
     outline: none;
     border-radius: 40px;
-    padding: .4rem;
-    margin: .4rem;
+    padding: .5rem 1rem;
+    margin: .2rem;
     font-size: 1rem;
     transition:.2s;
 }
@@ -80,9 +81,10 @@ nav ul li a:hover {
     display: flex;
     flex-wrap: nowrap;
     overflow-x: auto;
-    gap: .2rem;
+    gap: 1rem;
 }
 
 .Soft-Skills:hover {
-    transform: scale(1.10);
+    transform: scale(1.08);
+    background-color: aliceblue;
 }
