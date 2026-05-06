@@ -21,3 +21,8 @@ implement `index.html`
 ## Deliverables  
 #### What does “done” look like? Be concrete and testable
 - Once the buttons on the nav bar works which links to the other pages of the website. When everything looks aesthetically to my liking.
+
+## Latest Implementation Decisions:
+
+- Decided to go for a "modern" / "technology" look
+- Added hover buttons (that don't go anywhere) about my soft skills... Looks good aesthetically!
