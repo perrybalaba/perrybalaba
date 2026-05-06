@@ -31,22 +31,15 @@ main {
         margin-left: 5%;
         gap: 5%;
     }
+
+    /* .Info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    padding: 0 5%;
+    gap: 4rem; */
 }
 
-@media (min-width: 300px)
-{
-    .Info {
-        grid-template-columns: 2fr 2fr;
-        align-items: center;
-        padding: 0%;
-        margin-left: 2%;
-        gap: 2%;
-    }
-
-    .Description {
-        font-size: 0.5rem;
-    }
-}
 
 /* COLOR PALETTE */
 body {
