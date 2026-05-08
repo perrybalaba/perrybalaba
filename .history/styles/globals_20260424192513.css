@@ -31,15 +31,7 @@ main {
         margin-left: 5%;
         gap: 5%;
     }
-
-    /* .Info {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    align-items: center;
-    padding: 0 5%;
-    gap: 4rem; */
 }
-
 
 /* COLOR PALETTE */
 body {
@@ -62,5 +54,5 @@ h3 {
 .Soft-Skills {
     color: #599692;
     background-color: transparent;
-    border: 1.2px solid #599692;
+    border: 2px solid #599692;
 }
