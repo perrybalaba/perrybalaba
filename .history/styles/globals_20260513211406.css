@@ -23,14 +23,9 @@ main {
 
 /* TABLET DESIGN */
 @media (min-width: 768px) {
-    /* NAVIGATION BAR */
-    nav ul li a {
-        font-size: 1.3rem;
-    }
-    
     /* HEADER */
     .Home-Header {
-        font-size: 2.2rem;
+        font-size: 4rem;
     }
 
     /* ABOUT ME */
@@ -72,7 +67,7 @@ main {
     }
 
     nav ul li a {
-        font-size: 1.5rem;
+        font-size: 1.1rem;
     }
 
     /* ABOUT ME */
@@ -87,11 +82,6 @@ main {
     .Description {
         max-width: 650px;
         font-size: 1.2rem;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        gap: 1rem;
     }
 
     .Info img {
@@ -109,23 +99,5 @@ main {
 
     .Skill-Card {
         width: 280px;
-    }
-
-    .Skill-Icons img {
-        width: 80px;
-        height: 80px;
-    }
-
-    /* SKILLS */
-    .Projects-Container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .Project-Card {
-        width: 100%;
-        max-width: 850px;
-        margin: 0 auto;
     }
 }

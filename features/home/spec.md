@@ -22,7 +22,12 @@ implement `index.html`
 #### What does “done” look like? Be concrete and testable
 - Once the buttons on the nav bar works which links to the other pages of the website. When everything looks aesthetically to my liking.
 
-## Latest Implementation Decisions:
+## Latest Implementation Decisions
 
 - Decided to go for a "modern" / "technology" look
 - Added hover buttons (that don't go anywhere) about my soft skills... Looks good aesthetically!
+
+## Review
+- `index.html` looks fine.
+- my website does not follow responsive design in terms of mobile layout. i forgot to do mobile layout first, so i might need to readjust everything.
+- need to use an `srceset` for the image 
