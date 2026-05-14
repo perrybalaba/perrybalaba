@@ -130,6 +130,14 @@ nav ul li a:hover {
     transform: translateX(-5px);
 }
 
+.Left-Card a {
+    justify-content: flex-start;
+}
+
+.Right-Card a {
+    justify-content: flex-end;
+}
+
 .Right-Card:hover img {
     transform: translateX(5px);
 }

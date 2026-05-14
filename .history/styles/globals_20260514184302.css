@@ -139,19 +139,4 @@ main {
         max-width: 850px;
         margin: 0 auto;
     }
-
-    /* OTHER PROJECTS */
-    .Other-Projects-Container {
-        justify-content: space-between;
-        align-items: center;
-    }
-
-    .Other-Projects-Card {
-        width: 350px;
-        padding: 1.5rem;
-    }
-
-    .Other-Projects-Card a {
-        font-size: 1.1rem;
-    }
 }

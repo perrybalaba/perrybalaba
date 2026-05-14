@@ -141,6 +141,12 @@ main {
     }
 
     /* OTHER PROJECTS */
+    .Other-Projects {
+        max-width: 1200px;
+        margin: 5rem;
+        padding: 0;
+    }
+
     .Other-Projects-Container {
         justify-content: space-between;
         align-items: center;
