@@ -1,0 +1,27 @@
+/* NAVIGATION BAR */
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+nav ul li {
+    float: center;
+}
+
+nav ul li a {
+    display: block;
+    text-align: center;
+    padding: .75rem 1rem;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: .2s;
+}
+
+nav ul li a:hover {
+    transform: scale(1.08);
+}
+

@@ -1,16 +1,15 @@
 /* NAVIGATION BAR */
-.Nav-Bar {
-    padding: 1rem;
-    border-bottom: 3px solid lightgray;
-}
-
 nav ul {
     list-style: none;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 2rem;
-    padding: 0;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+nav ul li {
+    float: center;
 }
 
 nav ul li a {
@@ -18,18 +17,12 @@ nav ul li a {
     text-align: center;
     padding: .75rem 1rem;
     text-decoration: none;
-    color: #374151;
-    font-weight: bold;
-    padding: 10px;
-    border-radius: 10px;
     font-size: 1rem;
-    transition: 0.2s;
+    transition: .2s;
 }
 
 nav ul li a:hover {
     transform: scale(1.08);
-    background-color: #f3f4f6;
-    color: black;
 }
 
 /* HEADER */
@@ -57,12 +50,9 @@ nav ul li a:hover {
 }
 
 .Info img {
-    width: 100%;
-    max-width: 350px;
-    height: auto;
+    width: 500px;
+    height: 500px;
     border-radius: 55px;
-    display: block;
-    margin: 0;
 }
 
 /* SOFT SKILLS */
@@ -168,6 +158,7 @@ nav ul li a:hover {
     display: flex;
     gap: 1rem;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .Contact-Links a {
