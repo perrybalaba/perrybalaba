@@ -32,6 +32,21 @@ nav ul li a:hover {
     color: black;
 }
 
+/* PROJECT */
+.Project-Stats img {
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+}
+
+.Work-In-Progress {
+    background-color: #fffaaf;
+    padding: 8px;
+    border-radius: 1000px;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
 /* CONTACT */
 .Contact {
     background-color: #111827;
