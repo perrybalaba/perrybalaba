@@ -126,6 +126,6 @@ main {
     .Project-Card {
         width: 100%;
         max-width: 850px;
-        margin: 0 auto;
+        margin: 0;
     }
 }
