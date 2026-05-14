@@ -57,12 +57,9 @@ nav ul li a:hover {
 }
 
 .Info img {
-    width: 100%;
-    max-width: 350px;
-    height: auto;
+    width: 500px;
+    height: 500px;
     border-radius: 55px;
-    display: block;
-    margin: 0;
 }
 
 /* SOFT SKILLS */
