@@ -56,30 +56,11 @@ nav ul li a:hover {
 }
 
 /* SOFT SKILLS */
-.Soft-Skills-Container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 12px;
-    flex-wrap: wrap;
-    margin-top: 1.5rem;
-}
-
 .Soft-Skills {
     background-color: #f3f4f6;
     color: #333;
     border: none;
-    padding: 10px;
-    border-radius: 1000px;
-    font-size: 0.95rem;
-    font-weight: 600;
-    transition: all 0.2s ease;
-}
-
-.Soft-Skills:hover {
-    transform: translateY(-2px);
-    background-color: #4b5563;
-    color: white;
+    padding
 }
 
 /* SKILLS */
