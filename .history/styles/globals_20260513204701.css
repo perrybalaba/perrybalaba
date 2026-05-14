@@ -1,0 +1,64 @@
+/* FONTS */
+@font-face {
+    font-family: "NotoSans";
+    src: url(../assets/fonts/Noto_Sans/NotoSans-VariableFont_wdth\,wght.ttf);
+}
+
+@font-face {
+    font-family: "Lexend";
+    src: url(../assets/fonts/Lexend_Deca\,Noto_Sans/Lexend_Deca/LexendDeca-VariableFont_wght.ttf);
+}
+
+.Home-Header {
+    font-family: "NotoSans";
+}
+
+.Nav-Bar {
+    font-family: "Lexend";
+}
+
+main {
+    font-family: "Lexend";
+}
+
+/* TABLET DESIGN */
+@media (min-width: 768px) {
+    /* HEADER */
+    .Home-Header {
+        font-size: 4rem;
+    }
+
+    /* ABOUT ME */
+    .Info {
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 3rem;
+        padding: 2rem;
+    }
+
+    .Info p {
+        max-width: 500px;
+    }
+
+    .Info img {
+        max-width: 450px;
+    }
+
+    /* SKILLS */
+    .Skill-Card {
+        width: 260px;
+    }
+
+    .Skill-Icons img {
+        width: 70px;
+        height: 70px;
+    }
+
+    /* CONTACT */
+    .Contact-Container {
+        justify-content: space-between;
+        margin: 0;
+    }
+}
+

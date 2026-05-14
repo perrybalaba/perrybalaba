@@ -23,11 +23,6 @@ main {
 
 /* TABLET DESIGN */
 @media (min-width: 768px) {
-    /* NAVIGATION BAR */
-    nav ul li a {
-        font-size: 1.3rem;
-    }
-    
     /* HEADER */
     .Home-Header {
         font-size: 2.2rem;

@@ -23,14 +23,9 @@ main {
 
 /* TABLET DESIGN */
 @media (min-width: 768px) {
-    /* NAVIGATION BAR */
-    nav ul li a {
-        font-size: 1.3rem;
-    }
-    
     /* HEADER */
     .Home-Header {
-        font-size: 2.2rem;
+        font-size: 4rem;
     }
 
     /* ABOUT ME */
@@ -38,18 +33,22 @@ main {
         flex-direction: row;
         justify-content: center;
         align-items: center;
-        gap: 2rem;
+        gap: 3rem;
         padding: 2rem;
     }
 
     .Description {
-        width: 60%;
-        max-width: 600px;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .Info p {
+        max-width: 500px;
     }
 
     .Info img {
-        max-width: 300px;
-        width: 40%;
+        max-width: 450px;
     }
 
     /* SKILLS */
@@ -58,8 +57,8 @@ main {
     }
 
     .Skill-Icons img {
-        width: 50px;
-        height: 50px;
+        width: 70px;
+        height: 70px;
     }
 }
 
@@ -72,26 +71,18 @@ main {
     }
 
     nav ul li a {
-        font-size: 1.5rem;
+        font-size: 1.1rem;
     }
 
     /* ABOUT ME */
     .Info {
         gap: 5rem;
         padding: 4rem;
-        justify-content: center;
-        flex-direction: row;
-        align-items: center;
     }
 
     .Description {
         max-width: 650px;
         font-size: 1.2rem;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        gap: 1rem;
     }
 
     .Info img {
@@ -109,10 +100,5 @@ main {
 
     .Skill-Card {
         width: 280px;
-    }
-
-    .Skill-Icons img {
-        width: 80px;
-        height: 80px;
     }
 }
