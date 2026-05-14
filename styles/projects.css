@@ -31,3 +31,41 @@ nav ul li a:hover {
     background-color: #f3f4f6;
     color: black;
 }
+
+/* CONTACT */
+.Contact {
+    background-color: #111827;
+    color: white;
+    padding: 5rem;
+    margin-top: 5rem;
+}
+
+.Contact-Container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.Contact-Links {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.Contact-Links a {
+    text-decoration: none;
+    background-color: #1F2937;
+    color: white;
+    padding: 12px;
+    border-radius: 12px;
+    transition: 0.2s ease;
+}
+
+.Contact-Links a:hover {
+    background-color: #374151;
+    transform: scale(1.03);
+}
