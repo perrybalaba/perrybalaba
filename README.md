@@ -4,7 +4,7 @@
 - ✉️ Reach Me: [balabaperry@gmail.com](mailto:balabaperry@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ann-karen-balaba-46b839387/)
 
 ## ⚙️ My Tech Stack
-- **Languages:** C# / Python / JavaScript / Markdown
+- **Languages:** C# / Python / JavaScript 
 - **Web Dev:** HTML / CSS
 - **Tools:** Powershell / Git
 
